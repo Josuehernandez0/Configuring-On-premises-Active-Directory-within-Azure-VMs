@@ -1355,7 +1355,7 @@ Now you will see the current users that have been created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/86DWrtm.png"/>
 </p>
 <p>
 Next go to Cilent-1 open up the command line then type logoff, then press enter 
@@ -1363,7 +1363,7 @@ Next go to Cilent-1 open up the command line then type logoff, then press enter
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/KUEAdgU.png"/>
 </p>
 <p>
 Now that we logged out of Cilent-1 we are going to go to DC-1 VM and pick a user then copy the display name. 
@@ -1371,7 +1371,7 @@ Now that we logged out of Cilent-1 we are going to go to DC-1 VM and pick a user
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bhtgtyN.png"/>
 </p>
 <p>
 Open up your notepad and paste or type the display name of the account you want to log into  
