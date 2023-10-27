@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 <p align="center">
-<img src=""/>
+<img src="https://i.imgur.com/N2J81cC.png"/>
 </p>
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
@@ -65,7 +65,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/w1psRtI.png"/>
 </p>
 <p>
 First go to Microsoft Azure and type Resource Group 
@@ -73,7 +73,7 @@ First go to Microsoft Azure and type Resource Group
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZY1wIfO.png"/>
 </p>
 <p>
 Next click create to create the Resource Group
@@ -81,7 +81,7 @@ Next click create to create the Resource Group
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/V7uIliy.png"/>
 </p>
 <p>
 Now for the name type AD-LAb and the region under US West US 3 then go to the review and create tab 
@@ -90,7 +90,7 @@ Now for the name type AD-LAb and the region under US West US 3 then go to the re
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/DWS0odj.png"/>
 </p>
 <p>
 Next the validation pass through 
@@ -99,7 +99,7 @@ Next the validation pass through
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bXEBGJA.png"/>
 </p>
 <p>
 Now once the process is done you will see the Resource Group was created 
@@ -107,7 +107,7 @@ Now once the process is done you will see the Resource Group was created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XEhQFAg.png"/>
 </p>
 <p>
 Type Virtual Machine in the search bar 
@@ -115,7 +115,7 @@ Type Virtual Machine in the search bar
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/vxN4oR1.png"/>
 </p>
 <p>
 Next click Azure Virtual Machine to create the VM
@@ -123,7 +123,7 @@ Next click Azure Virtual Machine to create the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/awqKr81.png"/>
 </p>
 <p>
 Now for the resource group click AD-LAb, and the virtual machine name type DC-1. The region put under US West US 3 and the image under Windows Server
@@ -131,7 +131,7 @@ Now for the resource group click AD-LAb, and the virtual machine name type DC-1.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/OOkC9dp.png"/>
 </p>
 <p>
 Next the size needs to be under Standard E2 and teh username under labuser and the password under your own unique password. Remember to open a notepad and type all your info out so you dont lose it.
@@ -139,7 +139,7 @@ Next the size needs to be under Standard E2 and teh username under labuser and t
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/uHq2zjd.png"/>
 </p>
 <p>
 Next click the box in the Licensing section and then click th econfirm box. Then click review and create 
@@ -147,7 +147,7 @@ Next click the box in the Licensing section and then click th econfirm box. Then
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/tfSIhRn.png"/>
 </p>
 <p>
 Now go to the networking tab and make sure the virtual network, subnet, and the public IP all says (new)
@@ -155,7 +155,7 @@ Now go to the networking tab and make sure the virtual network, subnet, and the 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EmHpCfI.png"/>
 </p>
 <p>
 Now go to the review and create section 
@@ -163,7 +163,7 @@ Now go to the review and create section
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/CvW4woT.png"/>
 </p>
 <p>
 Next let the deployment progess load 
@@ -171,7 +171,7 @@ Next let the deployment progess load
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/jcExvfg.png"/>
 </p>
 <p>
 Now the process will be complete when there is a green check 
@@ -179,7 +179,7 @@ Now the process will be complete when there is a green check
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rPMnpd5.png"/>
 </p>
 <p>
 Next type virtual machine and you will see DC-1 VM was created
@@ -187,7 +187,7 @@ Next type virtual machine and you will see DC-1 VM was created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Y9F6T6d.png"/>
 </p>
 <p>
 Next click create and then go to Azure Virtual Machine 
@@ -195,7 +195,7 @@ Next click create and then go to Azure Virtual Machine
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Kjvftpd.png"/>
 </p>
 <p>
 Next in the subscriiption section make sure the same subscription that you used for the resource group is selected. Then in Resource Group click AD-Lab then for the name type Cilent-1 and the region click US West US 3
@@ -203,7 +203,7 @@ Next in the subscriiption section make sure the same subscription that you used 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/7uNy1ZV.png"/>
 </p>
 <p>
 Now for the Image click Windows 10 pro version and the size click Standard E2
