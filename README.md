@@ -1379,7 +1379,7 @@ Open up your notepad and paste or type the display name of the account you want 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/daqolD2.png"/>
 </p>
 <p>
 Now type Remote Desktop Connection and open the app
@@ -1387,7 +1387,7 @@ Now type Remote Desktop Connection and open the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/v3UPIFf.png"/>
 </p>
 <p>
 Next paste the public IP of Cilent-1 VM then click connect
@@ -1395,7 +1395,7 @@ Next paste the public IP of Cilent-1 VM then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/kn0G4d7.png"/>
 </p>
 <p>
 Next click more choices and click use a different account 
@@ -1403,7 +1403,7 @@ Next click more choices and click use a different account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/RXiFqGd.png"/>
 </p>
 <p>
 Now type mydomain.com\ then your username. Next for the password type Password1 refer to the image above then press ok
