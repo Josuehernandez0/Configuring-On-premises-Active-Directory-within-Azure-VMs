@@ -73,7 +73,7 @@ First go to Microsoft Azure and type Resource Group
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZY1wIfO.png"/>
+<img src="https://i.imgur.com/qUbDlfz.png"/>
 </p>
 <p>
 Next click create to create the Resource Group
