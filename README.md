@@ -81,7 +81,7 @@ Next click create to create the Resource Group
 <br />
 
 <p>
-<img src="https://i.imgur.com/V7uIliy.png"/>
+<img src="https://i.imgur.com/w1psRtI.png"/>
 </p>
 <p>
 Now for the name type AD-LAb and the region under US West US 3 then go to the review and create tab 
