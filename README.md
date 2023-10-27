@@ -1411,7 +1411,7 @@ Now type mydomain.com\ then your username. Next for the password type Password1 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/FVXdIxN.png"/>
 </p>
 <p>
 Next press yes to connect to the VM
@@ -1419,7 +1419,7 @@ Next press yes to connect to the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/yBGj5br.png"/>
 </p>
 <p>
 Now you will see the username display on the screen of the loading screen of Cilent-1 VM
@@ -1427,7 +1427,7 @@ Now you will see the username display on the screen of the loading screen of Cil
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/s8SxQm2.png"/>
 </p>
 <p>
 Open commandline and type whoami and you will see we are logged in as the user you picked. Type hostname and you will see you are still under Cilent-1 then type logoff 
@@ -1435,7 +1435,7 @@ Open commandline and type whoami and you will see we are logged in as the user y
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Q4pWgDO.png"/>
 </p>
 <p>
 Go back to DC-1 VM and pick another user, then copy the display name 
@@ -1443,7 +1443,7 @@ Go back to DC-1 VM and pick another user, then copy the display name
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/4dnsfRo.png"/>
 </p>
 <p>
 Type Remote Desktop Connection and load the app 
@@ -1451,7 +1451,7 @@ Type Remote Desktop Connection and load the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/DemCRmP.png"/>
 </p>
 <p>
 Next paste the Public IP of Cilent-1 then click connect 
@@ -1459,7 +1459,7 @@ Next paste the Public IP of Cilent-1 then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BU9a5ta.png"/>
 </p>
 <p>
 Click more choices then click use a different account 
@@ -1467,7 +1467,7 @@ Click more choices then click use a different account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/7sn1fm6.png"/>
 </p>
 <p>
 Now type mydomain.com\ then the username, but for the password type the password incorrectly ten times to lock you out of your account refer to the image above 
@@ -1475,10 +1475,10 @@ Now type mydomain.com\ then the username, but for the password type the password
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/8wHv8rN.png"/>
 </p>
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Cak8YWi.png"/>
 </p>
 <p>
 Next go back to DC-1 VM and go to the account tab of the user you picked. Click th box Unlock account then click ok 
@@ -1486,7 +1486,7 @@ Next go back to DC-1 VM and go to the account tab of the user you picked. Click 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/LJSF4MV.png"/>
 </p>
 <p>
 You can also right click the user you picked and click reset password, or even disable the account 
@@ -1494,7 +1494,7 @@ You can also right click the user you picked and click reset password, or even d
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lMRNqnV.png"/>
 </p>
 <p>
 Now to see Lab 6 https://github.com/josuehernandez0/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME and Lab 7 https://github.com/josuehernandez0/Network-File-Shares-and-Permissions 
