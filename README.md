@@ -995,7 +995,7 @@ Once its done you will see a green check you can click the bell icon to see the 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZE2DOep.png"/>
 </p>
 <p>
 Next go back to Virtual Machine adn click restart then click yes to restart Cilent-1 VM
@@ -1003,7 +1003,7 @@ Next go back to Virtual Machine adn click restart then click yes to restart Cile
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lMRPjRF.png"/>
 </p>
 <p>
 You can click the bell icon and see the process restart the VM
@@ -1011,7 +1011,7 @@ You can click the bell icon and see the process restart the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Jx9gflo.png"/>
 </p>
 <p>
 Once its done you will see a green check mark icon 
@@ -1019,7 +1019,7 @@ Once its done you will see a green check mark icon
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/MQ1rKbV.png"/>
 </p>
 <p>
 Next click Cilent-1 then copy the public IP 
@@ -1027,7 +1027,7 @@ Next click Cilent-1 then copy the public IP
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qYS9lXP.png"/>
 </p>
 <p>
 Type Remote Desktop Connection and load the app 
@@ -1035,7 +1035,7 @@ Type Remote Desktop Connection and load the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/VN8NdDw.png"/>
 </p>
 <p>
 Next paste the Public IP in the computer section and then click connect 
@@ -1043,7 +1043,7 @@ Next paste the Public IP in the computer section and then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Bu8q1Ki.png"/>
 </p>
 <p>
 Now type labuser for the username and the original password you made for Cilent-1 then click ok 
@@ -1051,7 +1051,7 @@ Now type labuser for the username and the original password you made for Cilent-
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/T1KrIsp.png"/>
 </p>
 <p>
 Next press yes to log into the VM
@@ -1059,7 +1059,7 @@ Next press yes to log into the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/tqNbFR9.png"/>
 </p>
 <p>
 Now you will see Cilent-1 VM load under labuser 
@@ -1067,7 +1067,7 @@ Now you will see Cilent-1 VM load under labuser
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Adub5cJ.png"/>
 </p>
 <p>
 We are going to do the same process as before right click the windows icon then click on system 
@@ -1075,7 +1075,7 @@ We are going to do the same process as before right click the windows icon then 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ve23aPw.png"/>
 </p>
 <p>
 Next click Rename this PC (advanced)
@@ -1083,7 +1083,7 @@ Next click Rename this PC (advanced)
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Zt4ak7C.png"/>
 </p>
 <p>
 Now click change 
@@ -1091,7 +1091,7 @@ Now click change
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/g8YHRup.png"/>
 </p>
 <p>
 Now click domain and type mydomain.com then click ok 
@@ -1099,7 +1099,7 @@ Now click domain and type mydomain.com then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/SfTLzOF.png"/>
 </p>
 <p>
 Now Computer Name / Domain Changes should load on your screen 
@@ -1107,7 +1107,7 @@ Now Computer Name / Domain Changes should load on your screen
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gxv1vGI.png"/>
 </p>
 <p>
 Next type mydomain.com\jane_admin then the password is Password1 then click ok 
@@ -1115,7 +1115,7 @@ Next type mydomain.com\jane_admin then the password is Password1 then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/aQRU7kp.png"/>
 </p>
 <p>
 You will see the VM is trying to reconnect dont click cancel let the bandwidth conenct back to the VM
@@ -1123,7 +1123,7 @@ You will see the VM is trying to reconnect dont click cancel let the bandwidth c
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/tXVcdpb.png"/>
 </p>
 <p>
 Next you will see a Please wait page 
@@ -1131,7 +1131,7 @@ Next you will see a Please wait page
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ihd3Q83.png"/>
 </p>
 <p>
 Close out of everything, but you wil see a tab that says You must restart your computer to apply these changes then click ok 
