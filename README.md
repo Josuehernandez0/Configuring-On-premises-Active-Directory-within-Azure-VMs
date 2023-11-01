@@ -591,7 +591,7 @@ Next click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/v8sBeay.png"/>
 </p>
 <p>
 Next click next
@@ -599,7 +599,7 @@ Next click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lcQ43sd.png"/>
 </p>
 <p>
 Next click next
@@ -607,7 +607,7 @@ Next click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/9elpUgJ.png"/>
 </p>
 <p>
 Next click next
@@ -615,7 +615,7 @@ Next click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/S6lmnkG.png"/>
 </p>
 <p>
 Next click install to finish creating the domain controller 
@@ -623,7 +623,7 @@ Next click install to finish creating the domain controller
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/But75vu.png"/>
 </p>
 <p>
 Then let the installation process finish 
@@ -631,7 +631,7 @@ Then let the installation process finish
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/y0HwZq9.png"/>
 </p>
 <p>
 You might see the image above for Reconnecting dont click cancel let the VM bandwidth connect back only if it doesnt kick you out properly then click cancel 
@@ -639,7 +639,7 @@ You might see the image above for Reconnecting dont click cancel let the VM band
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/O9Fx5UA.png"/>
 </p>
 <p>
 Go back to Azure and click DC-1 copy the public IP 
@@ -647,7 +647,7 @@ Go back to Azure and click DC-1 copy the public IP
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZeYECxk.png"/>
 </p>
 <p>
 Next type Remote Desktop Conenction and open the app 
@@ -655,7 +655,7 @@ Next type Remote Desktop Conenction and open the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EPKME4N.png"/>
 </p>
 <p>
 Now since we made DC-1 under another name click more choices then click use a different account 
@@ -663,7 +663,7 @@ Now since we made DC-1 under another name click more choices then click use a di
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pGsx7Gq.png"/>
 </p>
 <p>
 Next tpye in mydomain.com\labuser for the username and the password is Password1 then click ok 
@@ -671,7 +671,7 @@ Next tpye in mydomain.com\labuser for the username and the password is Password1
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/n6RejxS.png"/>
 </p>
 <p>
 Next click yes to log into the VM {NOTE} if it doesnt work the first time try again to log in. If it still doesn't let you then close Remote Desktop Connection and do the process again 
@@ -679,7 +679,7 @@ Next click yes to log into the VM {NOTE} if it doesnt work the first time try ag
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2WN4NGV.png"/>
 </p>
 <p>
 Now once you are in the DC-1 VM let Server Manager load on the screen 
@@ -687,7 +687,7 @@ Now once you are in the DC-1 VM let Server Manager load on the screen
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/UHV8rm3.png"/>
 </p>
 <p>
 Next click Tools on the top right then go to Active Directory Users and Computers 
@@ -695,7 +695,7 @@ Next click Tools on the top right then go to Active Directory Users and Computer
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/eNLWq8K.png"/>
 </p>
 <p>
 Next click on mydomain.com folder on the left side 
@@ -703,7 +703,7 @@ Next click on mydomain.com folder on the left side
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Z2gwhae.png"/>
 </p>
 <p>
 Next right click anywhere and go to new then to organizational unit 
@@ -712,7 +712,7 @@ Next right click anywhere and go to new then to organizational unit
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/G9t9JOp.png"/>
 </p>
 <p>
 Next type _EMPLOYEES then click ok 
@@ -720,7 +720,7 @@ Next type _EMPLOYEES then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/nqMDaKJ.png"/>
 </p>
 <p>
 Now go back to mydomain.com and right click anywhere again, go to new then to organizational unit 
@@ -728,7 +728,7 @@ Now go back to mydomain.com and right click anywhere again, go to new then to or
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/6rulxVy.png"/>
 </p>
 <p>
 Next type ADMINS then click ok 
@@ -736,7 +736,7 @@ Next type ADMINS then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NaYBXnj.png"/>
 </p>
 <p>
 In ADMINS right click then go to new then to user
@@ -744,7 +744,7 @@ In ADMINS right click then go to new then to user
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/UUVVo5M.png"/>
 </p
 <p>
 For the first name type jane and the intials can be doe or the last name can be doe. For the user logon name type jane_admin then click next 
@@ -752,7 +752,7 @@ For the first name type jane and the intials can be doe or the last name can be 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pHDpikD.png"/>
 </p>
 <p>
 Next for the password type Password1 then uncheck user must change password at next login  
@@ -760,7 +760,7 @@ Next for the password type Password1 then uncheck user must change password at n
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/oWdmYE3.png"/>
 </p>
 <p>
 Next check the box for Password never expires then click next
@@ -768,7 +768,7 @@ Next check the box for Password never expires then click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gtTNfuz.png"/>
 </p>
 <p>
 Then finish to create the user 
@@ -776,7 +776,7 @@ Then finish to create the user
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/6Anvjv2.png"/>
 </p>
 <p>
 Now you should see jane doe account in the ADMINS folder if not right click then go to refresh 
@@ -784,7 +784,7 @@ Now you should see jane doe account in the ADMINS folder if not right click then
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/AGTgmOV.png"/>
 </p>
 <p>
 Next right click the account and go to properties 
