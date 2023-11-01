@@ -1139,7 +1139,7 @@ Close out of everything, but you wil see a tab that says You must restart your c
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/TH8zYWX.png"/>
 </p>
 <p>
 Then click Restart Now to restart the VM
@@ -1147,7 +1147,7 @@ Then click Restart Now to restart the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gOYO1Gb.png"/>
 </p>
 <p>
 Next you will see a Restarting Screen load 
@@ -1155,7 +1155,7 @@ Next you will see a Restarting Screen load
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/IPuQzDX.png"/>
 </p>
 <p>
 It will kick you out of Cilent-1 VM now go back to get the Public IP then type Remote Desktop Connection and open the app 
@@ -1163,7 +1163,7 @@ It will kick you out of Cilent-1 VM now go back to get the Public IP then type R
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/aHU0gkH.png"/>
 </p>
 <p>
 Next paste the public IP in the computer section then click connect 
@@ -1171,7 +1171,7 @@ Next paste the public IP in the computer section then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/kMNYu2H.png"/>
 </p>
 <p>
 Click more choices then click use a different account 
@@ -1179,7 +1179,7 @@ Click more choices then click use a different account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/cavQ1cV.png"/>
 </p>
 <p>
 Now type mydomain.com\jane_admin then the password is Password1 then click ok 
@@ -1187,7 +1187,7 @@ Now type mydomain.com\jane_admin then the password is Password1 then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/eukZtNR.png"/>
 </p>
 <p>
 Next click yes to connect to the VM
@@ -1195,7 +1195,7 @@ Next click yes to connect to the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/IxAiJrD.png"/>
 </p>
 <p>
 Now you will see the Cilent-1 VM loading as jane doe 
@@ -1203,7 +1203,7 @@ Now you will see the Cilent-1 VM loading as jane doe
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/i8ovTcp.png"/>
 </p>
 <p>
 Next right click the windows icon then click system 
@@ -1211,7 +1211,7 @@ Next right click the windows icon then click system
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/yZ5L9YZ.png"/>
 </p>
 <p>
 Next click Remote Desktop 
@@ -1219,7 +1219,7 @@ Next click Remote Desktop
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pimuzeR.png"/>
 </p>
 <p>
 Now click Select users that can remotely access this PC
@@ -1227,7 +1227,7 @@ Now click Select users that can remotely access this PC
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/TQbctCk.png"/>
 </p>
 <p>
 Next click add 
@@ -1235,7 +1235,7 @@ Next click add
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/3SW3zsT.png"/>
 </p>
 <p>
 Type domain users then click check names 
@@ -1243,7 +1243,7 @@ Type domain users then click check names
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/z3HzGNH.png"/>
 </p>
 <p>
 You will see the name changed to CAPS with a underscore then click ok 
@@ -1251,7 +1251,7 @@ You will see the name changed to CAPS with a underscore then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/eGdedSr.png"/>
 </p>
 <p>
 Next click ok 
@@ -1259,7 +1259,7 @@ Next click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XnHXgKq.png"/>
 </p>
 <p>
 Go back to DC-1, another way to get to Users and Computers is to click the windows icon on the bottom left. Next click Windows Administrative Tools then click Active Directory Users and Computers
@@ -1267,7 +1267,7 @@ Go back to DC-1, another way to get to Users and Computers is to click the windo
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lIOsgfI.png"/>
 </p>
 <p>
 Next click users then click Domain Users
