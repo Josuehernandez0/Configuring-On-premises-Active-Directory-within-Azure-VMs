@@ -1275,7 +1275,7 @@ Next click users then click Domain Users
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/tnULLj6.png"/>
 </p>
 <p>
 Now you will see jane doe and labuser are under the Domain Users
@@ -1283,7 +1283,7 @@ Now you will see jane doe and labuser are under the Domain Users
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/liIx60G.png"/>
 </p>
 <p>
 Next type Windows Powershell ISE right click and run as administrator
@@ -1291,7 +1291,7 @@ Next type Windows Powershell ISE right click and run as administrator
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/GJEq0od.png"/>
 </p>
 <p>
 Now click yes to run the software 
@@ -1299,7 +1299,7 @@ Now click yes to run the software
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pa5fawi.png"/>
 </p>
 <p>
 Click file then click new 
@@ -1307,7 +1307,7 @@ Click file then click new
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/aqoToVC.png"/>
 </p>
 <p>
 Go to the Link and copy the code this code will create 2000 users https://github.com/josuehernandez0/Generate-Names-Create-Users.ps1/blob/main/README.md
@@ -1315,7 +1315,7 @@ Go to the Link and copy the code this code will create 2000 users https://github
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/PSq00E3.png"/>
 </p>
 <p>
 Now paste the code in the white blank page section 
@@ -1323,7 +1323,7 @@ Now paste the code in the white blank page section
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/YaAxLwF.png"/>
 </p>
 <p>
 Now click the green play icon to run the script 
@@ -1331,7 +1331,7 @@ Now click the green play icon to run the script
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/JVX7zHJ.png"/>
 </p>
 <p>
 Now in the blue section you will see the 2000 users being created in a ligth blue color 
@@ -1339,7 +1339,7 @@ Now in the blue section you will see the 2000 users being created in a ligth blu
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/UHZnpmD.png"/>
 </p>
 <p>
 Next click on the _EMPLOYEES folder then right click and click refresh 
@@ -1347,7 +1347,7 @@ Next click on the _EMPLOYEES folder then right click and click refresh
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/IhDFjXI.png"/>
 </p>
 <p>
 Now you will see the current users that have been created 
