@@ -792,7 +792,7 @@ Next right click the account and go to properties
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/hmh6MQy.png"/>
 </p>
 <p>
 Next the member of tab then click add 
@@ -800,7 +800,7 @@ Next the member of tab then click add
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Sct56a1.png"/>
 </p>
 <p>
 Next in the enter section type domain then click check names 
@@ -808,7 +808,7 @@ Next in the enter section type domain then click check names
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qUv1nAL.png"/>
 </p>
 <p>
 Next double click on Domain Admins then click ok 
@@ -816,7 +816,7 @@ Next double click on Domain Admins then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/dKWSwFE.png"/>
 </p>
 <p>
 Then click ok 
@@ -824,7 +824,7 @@ Then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/xbDoEBf.png"/>
 </p>
 <p>
 Then click apply to finish 
@@ -832,7 +832,7 @@ Then click apply to finish
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/hP3WTTm.png"/>
 </p>
 <p>
 Next open command prompt then type whoami you will see we are still under labuser and not jane doe next type logoff 
@@ -840,7 +840,7 @@ Next open command prompt then type whoami you will see we are still under labuse
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/6iiuoe7.png"/>
 </p>
 <p>
 Go back to Azure and click DC-1 and copy the Public IP
@@ -848,7 +848,7 @@ Go back to Azure and click DC-1 and copy the Public IP
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/n2nJQYF.png"/>
 </p>
 <p>
 Next type Remote Desktop Connection and open the app
@@ -856,7 +856,7 @@ Next type Remote Desktop Connection and open the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/iwnQM6S.png"/>
 </p>
 <p>
 Next paste DC-1 VM public IP then click connect 
@@ -864,7 +864,7 @@ Next paste DC-1 VM public IP then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/4X5fCAk.png"/>
 </p>
 <p>
 Next click more choices then click use a different account
@@ -872,7 +872,7 @@ Next click more choices then click use a different account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/cQqI283.png"/>
 </p>
 <p>
 Next type mydomain.com\jane_admin in the username then the password is still Passsword1 then click ok 
@@ -880,7 +880,7 @@ Next type mydomain.com\jane_admin in the username then the password is still Pas
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/A1yKp0V.png"/>
 </p>
 <p>
 Next click yes to log into DC-1 VM
@@ -888,7 +888,7 @@ Next click yes to log into DC-1 VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Tv67m1X.png"/>
 </p>
 <p>
 DC-1 VM should load and you will see the name jane doe.
@@ -896,7 +896,7 @@ DC-1 VM should load and you will see the name jane doe.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/beOeCXb.png"/>
 </p>
 <p>
 Open command line then type whoami and you will see you are logged in as jane_admin 
@@ -904,7 +904,7 @@ Open command line then type whoami and you will see you are logged in as jane_ad
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zcdTiOy.png"/>
 </p>
 <p>
 Next right click the windows icon on the bottom left then click the system file 
@@ -912,7 +912,7 @@ Next right click the windows icon on the bottom left then click the system file
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zFzNeVX.png"/>
 </p>
 <p>
 Now click Rename this PC (advanced)
@@ -920,7 +920,7 @@ Now click Rename this PC (advanced)
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/dCJz0Sq.png"/>
 </p>
 <p>
 Next click change 
@@ -928,10 +928,10 @@ Next click change
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/8iocSQ3.png"/>
 </p>
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/wluUncm.png"/>
 </p>
 <p>
 Next click member of and click the domain circle, then type domain.com then click ok 
@@ -939,7 +939,7 @@ Next click member of and click the domain circle, then type domain.com then clic
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/QnovFM6.png"/>
 </p>
 <p>
 Now you will see an error displyed on the screen click ok this is because we have to change the NIC in azure for Cilent-1
@@ -947,7 +947,7 @@ Now you will see an error displyed on the screen click ok this is because we hav
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/WVVnatd.png"/>
 </p>
 <p>
 Now go to the Azure portal and go to Virtual Machine then click DC-1, copy the NIC Private IP
@@ -955,7 +955,7 @@ Now go to the Azure portal and go to Virtual Machine then click DC-1, copy the N
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gfUNKJl.png"/>
 </p>
 <p>
 Next click Cilent-1 and go to Network Interface and click on cilent 
@@ -963,7 +963,7 @@ Next click Cilent-1 and go to Network Interface and click on cilent
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/jNfLqKN.png"/>
 </p>
 <p>
 Next click DNS servers then click custom 
