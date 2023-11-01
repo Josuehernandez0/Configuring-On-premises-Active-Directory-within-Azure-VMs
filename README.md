@@ -971,7 +971,7 @@ Next click DNS servers then click custom
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qdASf5z.png"/>
 </p>
 <p>
 Now paste the NIC Private IP of DC-1 then click save 
@@ -979,7 +979,7 @@ Now paste the NIC Private IP of DC-1 then click save
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/MPzv9qi.png"/>
 </p>
 <p>
 Next let the process change the NIC
@@ -987,7 +987,7 @@ Next let the process change the NIC
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/l2UiPPO.png"/>
 </p>
 <p>
 Once its done you will see a green check you can click the bell icon to see the prcess load 
