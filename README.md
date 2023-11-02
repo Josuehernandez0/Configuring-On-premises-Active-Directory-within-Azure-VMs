@@ -211,7 +211,7 @@ Now for the Image click Windows 10 pro version and the size click Standard E2
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/dz0I7EJ.png"/>
 </p>
 <p>
 Next for the username type labuser and the password the same as DC-1 VM. Then click the Licensing tab then click review and create 
@@ -219,7 +219,7 @@ Next for the username type labuser and the password the same as DC-1 VM. Then cl
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/H8jOZRG.png"/>
 </p>
 <p>
 Now the deployment will be done when a green check appears next to the deployment
@@ -227,7 +227,7 @@ Now the deployment will be done when a green check appears next to the deploymen
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Au6nvlO.png"/>
 </p>
 <p>
 Next type virtual machines in the search bar 
@@ -235,7 +235,7 @@ Next type virtual machines in the search bar
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ChM0F5R.png"/>
 </p>
 <p>
 Next you will see that DC-1 and Cilent-1 was created 
@@ -243,7 +243,7 @@ Next you will see that DC-1 and Cilent-1 was created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HuntYrf.png"/>
 </p>
 <p>
 Now click DC-1 and click networkng 
@@ -251,7 +251,7 @@ Now click DC-1 and click networkng
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/K9KMPi3.png"/>
 </p>
 <p>
 Next click on the Network Interface 
@@ -259,7 +259,7 @@ Next click on the Network Interface
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/5JnUNDq.png"/>
 </p>
 <p>
 Next click on IP Configurations 
@@ -267,7 +267,7 @@ Next click on IP Configurations
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/nuPWIdZ.png"/>
 </p>
 <p>
 Now click ipconfig1
@@ -275,7 +275,7 @@ Now click ipconfig1
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/hL2ykA6.png"/>
 </p>
 <p>
 We are editing the IP Configurations in the allocation section click Static instead of Dynamic then click save.
@@ -283,7 +283,7 @@ We are editing the IP Configurations in the allocation section click Static inst
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/1QOkTc8.png"/>
 </p>
 <p>
 Now we are going to log into Cilent-1 VM copy the public IP address
@@ -291,7 +291,7 @@ Now we are going to log into Cilent-1 VM copy the public IP address
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pfwhZWg.png"/>
 </p>
 <p>
 Next type Remote Desktop Connection and click to open the app
@@ -299,7 +299,7 @@ Next type Remote Desktop Connection and click to open the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Uo25xY2.png"/>
 </p>
 <p>
 Next paste the IP of Cilent-1 in the computer section 
@@ -310,7 +310,7 @@ Next paste the IP of Cilent-1 in the computer section
 <img src=""/>
 </p>
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/iFUOMnS.png"/>
 </p>
 <p>
 Now tpye for the username type labuser and the password type the password you made for the VM, then click ok
@@ -318,7 +318,7 @@ Now tpye for the username type labuser and the password type the password you ma
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HLLRS72.png"/>
 </p>
 <p>
 Next click yes to open the VM
@@ -326,7 +326,7 @@ Next click yes to open the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/YhVYs8S.png"/>
 </p>
 <p>
 Now you should see the VM loading under the name labuser 
@@ -334,7 +334,7 @@ Now you should see the VM loading under the name labuser
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/xmZw5RG.png"/>
 </p>
 <p>
 Next click no to the following image above 
@@ -342,7 +342,7 @@ Next click no to the following image above
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HlVGAfy.png"/>
 </p>
 <p>
 Once networks load click yes 
@@ -350,7 +350,7 @@ Once networks load click yes
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/iJxIdCG.png"/>
 </p>
 <p>
 Now open up command prompt 
@@ -358,7 +358,7 @@ Now open up command prompt
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/1OsKFcz.png"/>
 </p>
 <p>
 Next go back to Azure and copy the Private IP of DC-1
@@ -366,7 +366,7 @@ Next go back to Azure and copy the Private IP of DC-1
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XlOSV9e.png"/>
 </p>
 <p>
 Go back to Cilent-1 VM and type ping -t the the private IP of DC-1. We are doing a endless ping to see the traffic 
@@ -374,7 +374,7 @@ Go back to Cilent-1 VM and type ping -t the the private IP of DC-1. We are doing
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/t2zGCSh.png"/>
 </p>
 <p>
 Then go to Azure and grab the Public IP of DC-1 VM then load Remote Desktop Connection and open the app  
@@ -382,7 +382,7 @@ Then go to Azure and grab the Public IP of DC-1 VM then load Remote Desktop Conn
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rEvUaKM.png"/>
 </p>
 <p>
 Paste the IP of DC-1 in the computer section then click connect 
@@ -390,7 +390,7 @@ Paste the IP of DC-1 in the computer section then click connect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/thzGUZV.png"/>
 </p>
 <p>
 Next type the username labuser and the password you made for DC-1 VM then click ok 
