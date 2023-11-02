@@ -398,7 +398,7 @@ Next type the username labuser and the password you made for DC-1 VM then click 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Nn7FKTb.png"/>
 </p>
 <p>
 Next click yes to log into the VM
@@ -406,7 +406,7 @@ Next click yes to log into the VM
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/sR5NDJV.png"/>
 </p>
 <p>
 Once the VM loads let Server Manager load as well. Next once networks load click yes 
@@ -414,7 +414,7 @@ Once the VM loads let Server Manager load as well. Next once networks load click
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zrVcTEO.png"/>
 </p>
 <p>
 Next type wf.msc in the search bar of DC-1 
@@ -422,7 +422,7 @@ Next type wf.msc in the search bar of DC-1
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XxSRHOT.png"/>
 </p>
 <p>
 Next click on Inbound Rules 
@@ -430,7 +430,7 @@ Next click on Inbound Rules
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gOxtFkb.png"/>
 </p>
 <p>
 Next click the protocol, then look for ICMPv4 protcol
@@ -439,7 +439,7 @@ Next click the protocol, then look for ICMPv4 protcol
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/CKe1O8G.png"/>
 </p>
 <p>
 Next right click then enable rule for the following in the image above 
@@ -447,7 +447,7 @@ Next right click then enable rule for the following in the image above
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/AgZEPSL.png"/>
 </p>
 <p>
 Go back to Cilent-1 VM and you wil see the constant pinging click Ctrl + C then go back to the directory
@@ -455,7 +455,7 @@ Go back to Cilent-1 VM and you wil see the constant pinging click Ctrl + C then 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/aDccbL6.png"/>
 </p>
 <p>
 Next go to DC-1 and click add roles and features 
@@ -463,7 +463,7 @@ Next go to DC-1 and click add roles and features
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/WR03oLR.png"/>
 </p>
 <p>
 Click next 
@@ -471,7 +471,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EklPd7H.png"/>
 </p>
 <p>
 Click next 
@@ -479,7 +479,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EUQqjGu.png"/>
 </p>
 <p>
 Click next 
@@ -487,7 +487,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/RUqx4gT.png"/>
 </p>
 <p>
 Click the box for Active Directory Domain Services 
@@ -495,7 +495,7 @@ Click the box for Active Directory Domain Services
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/timWshz.png"/>
 </p>
 <p>
 Click the add features 
@@ -503,7 +503,7 @@ Click the add features
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XCuzSoq.png"/>
 </p>
 <p>
 Click next 
@@ -511,7 +511,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/FvGfLnw.png"/>
 </p>
 <p>
 Click next 
@@ -519,7 +519,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/m1X8D7a.png"/>
 </p>
 <p>
 Click next 
@@ -527,7 +527,7 @@ Click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2PHuXHw.png"/>
 </p>
 <p>
 Click Install 
@@ -535,7 +535,7 @@ Click Install
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BXzch04.png"/>
 </p>
 <p>
 Next let the installation process start
@@ -543,7 +543,7 @@ Next let the installation process start
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BXzch04.png"/>
 </p>
 <p>
 Once the process finishes click close 
@@ -551,7 +551,7 @@ Once the process finishes click close
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2WV5HKw.png"/>
 </p>
 <p>
 Next click the caution symbol near manage on the top right 
@@ -559,7 +559,7 @@ Next click the caution symbol near manage on the top right
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/yeEQmdb.png"/>
 </p>
 <p>
 Next click Promote this server to a domain controller 
@@ -567,7 +567,7 @@ Next click Promote this server to a domain controller
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/jQABqGq.png"/>
 </p>
 <p>
 Click add a new forest then type mydomain.com then click next. {NOTE} you can type anything you want just have a .com at the end of it please copy it down to your notepad to not forget 
@@ -575,7 +575,7 @@ Click add a new forest then type mydomain.com then click next. {NOTE} you can ty
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/xAe1WLS.png"/>
 </p>
 <p>
 Next type the password in for this my password will be Password1 then click next 
@@ -583,7 +583,7 @@ Next type the password in for this my password will be Password1 then click next
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ps3xEuG.png"/>
 </p>
 <p>
 Next click next
